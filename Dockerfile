@@ -10,5 +10,4 @@ RUN apt-get update \
 RUN npm install -g ijavascript \
     && ijsinstall --hide-undefined --install=global  
 
-ADD script.sh /
 
