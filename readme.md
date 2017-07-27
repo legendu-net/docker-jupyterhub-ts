@@ -1,4 +1,4 @@
-# dclong/jupyterlab-rb
+# dclong/jupyterlab-js
 
 JupyterLab with the iJavaScript Kernel.
 
