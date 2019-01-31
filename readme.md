@@ -1,6 +1,13 @@
 # [dclong/jupyterhub-js](https://hub.docker.com/r/dclong/jupyterhub-js/)
 
 JupyterHub with the iJavaScript and iTypeScript Kernel.
+**It is recommended that you use the image
+[dclong/jupyterhub-ds](https://hub.docker.com/r/dclong/jupyterhub-ds/)
+for data science related work.**
+Note: Python packages in this version are managed using pip.
+If you prefer managing Python packages using conda, 
+please use the **conda3** (corresponds to the conda3 tag) branch instead.
+
 
 ## Detailed Information
 
