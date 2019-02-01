@@ -1,3 +1,3 @@
-#!/usr/bin/env sh
+#!/bin/bash
 
-docker build -t dclong/jupyterlab-js .
+docker build -t dclong/jupyterhub-ts .
