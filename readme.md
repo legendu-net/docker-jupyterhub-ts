@@ -1,4 +1,4 @@
-# [dclong/jupyterhub-js](https://hub.docker.com/r/dclong/jupyterhub-js/)
+# [dclong/jupyterhub-ts](https://hub.docker.com/r/dclong/jupyterhub-ts/)
 
 JupyterHub with the iJavaScript and iTypeScript Kernel.
 **It is recommended that you use the image
